@@ -6,6 +6,22 @@
 
 > **Fancy: Start here.** You do **not** need a Google Drive connection for these public URLs. Open this Markdown page and the exact image/PDF links below with web-reading or browsing tools. Do not claim access to any file until you successfully open it. A pasted link cannot give a chat capabilities it does not have.
 
+## Fancy: visual access when the PDFs won't load
+
+**Update, November 7, 2026:** If you can read this README and the original logo but the PDF viewer reports "PDF contents not readable", **do not ask Whitney to upload PDFs yet**. The library now includes a text-and-image alternative, made directly from the same blank approved PDF documents:
+
+- **[Open the full visual reference with 4 rendered page images, exact section text and all 159 field names](./FORM_VISUAL_REFERENCE.md)**
+- **[Open the machine-readable form controls and their page coordinates](./FORM_FIELDS.json)**
+
+Pages for direct image viewing (ordinary JPEG, not PDF):
+
+1. [Daily Care & Activity Log](./Elinrose_Form_Preview_Page_01.jpg)
+2. [Client Medication Log](./Elinrose_Form_Preview_Page_02.jpg)
+3. [Meal Preparation Questionnaire, page 1](./Elinrose_Form_Preview_Page_03.jpg)
+4. [Meal Preparation Questionnaire, page 2](./Elinrose_Form_Preview_Page_04.jpg)
+
+**Use the linked JPEGs as visual source-of-truth references and the Markdown/JSON for exact printed text and interactive field structure.** These are blank templates. You can design new forms based on them without being able to open the original PDFs. To modify existing *interactive PDF fields* you still need a PDF-capable tool, but you no longer need Whitney to attach the references just for inspection. If images also fail, read the text guide; distinguish the text you read from images you actually saw.
+
 ## Official Elinrose logo
 
 ![Official Elinrose companion care logo](./Elinrose_Companion_Care_Official_Logo.png)
